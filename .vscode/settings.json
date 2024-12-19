@@ -1,0 +1,11 @@
+{
+  "godotTools.editorPath.godot4": "c:\\www\\GodotMultiplayerThing\\dependencies\\Godot.exe",
+  "dotnet.unitTests.runSettingsPath": "${workspaceFolder}/.runsettings",
+  "cSpell.ignorePaths": [
+    "*.tscn",
+    ".vscode/*"
+  ],
+  "cSpell.words": [
+    "tscn"
+  ]
+}
